@@ -1,0 +1,26 @@
+{
+  "embedding_model": "intfloat/multilingual-e5-large",
+  "model_revision": null,
+  "embedding_dimension": 1024,
+  "vector_index_type": "IndexFlatIP",
+  "similarity_metric": "cosine_similarity (normalized inner product)",
+  "chunking_strategy": "structure-aware; articles, parts, table rows, and amendments",
+  "tokenizer_max_sequence_length": 512,
+  "target_chunk_tokens": 420,
+  "maximum_chunk_tokens": 480,
+  "overlap_tokens": 70,
+  "overlap_policy": "overlap complete sentence/clause units when within token budget",
+  "dataset_version": {
+    "law_structured.json": "ec4df2c57f364ea59322da7bb76bc3b480472090df731da427fb6bc3debab34b",
+    "articles.json": "2845e1ebf0735a4fcda5c01978a4d069360535835c40a4e05eeac6ef23282c81",
+    "tables.json": "813462d0064fc854d2c56b5170d32e4a65ce4a5ed2c86e683b3e7b9c92d4e531",
+    "amendments.json": "5d68d83ab0fae93fee9d64d7a56b367d226517d4db3406b3f45dbe5c26ff65af"
+  },
+  "created_at": "2026-11-20T09:22:48.718603+00:00",
+  "libraries": {
+    "sentence-transformers": "6.3.0",
+    "faiss-cpu": "1.16.0",
+    "rank-bm25": "0.2.2",
+    "numpy": "2.5.5"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "total_samples": 348,
+  "total_generated_samples": 348,
+  "by_split": {
+    "train": 276,
+    "validation": 37,
+    "test": 35
+  },
+  "by_task_type": {
+    "legal_qa": 66,
+    "table_understanding": 159,
+    "article_explanation": 33,
+    "article_retrieval": 33,
+    "structured_extraction": 23,
+    "amendment_history": 28,
+    "insufficient_evidence": 6
+  },
+  "by_task_type_per_split": {
+    "train": {
+      "amendment_history": 22,
+      "article_explanation": 23,
+      "article_retrieval": 23,
+      "legal_qa": 56,
+      "structured_extraction": 21,
+      "insufficient_evidence": 4,
+      "table_understanding": 127
+    },
+    "validation": {
+      "article_explanation": 5,
+      "article_retrieval": 5,
+      "legal_qa": 5,
+      "amendment_history": 3,
+      "structured_extraction": 1,
+      "insufficient_evidence": 1,
+      "table_understanding": 17
+    },
+    "test": {
+      "amendment_history": 3,
+      "article_explanation": 5,
+      "article_retrieval": 5,
+      "legal_qa": 5,
+      "structured_extraction": 1,
+      "insufficient_evidence": 1,
+      "table_understanding": 15
+    }
+  },
+  "groups": {
+    "total": 89,
+    "train": 64,
+    "validation": 13,
+    "test": 12
+  },
+  "articles_total": 33,
+  "articles_covered_by_samples": 33,
+  "table_sections_total": 48,
+  "table_sections_covered_by_samples": 48,
+  "duplicates_removed": 0,
+  "review_required": 0,
+  "split_ratio_target": {
+    "train": 0.8,
+    "validation": 0.1,
+    "test": 0.1
+  },
+  "split_ratio_actual": {
+    "train": 0.7931,
+    "validation": 0.1063,
+    "test": 0.1006
+  },
+  "strategy_note": "Split modda va jadval boʻlimi guruhlari boʻyicha amalga oshirildi; bir moddaning barcha namunalari bitta toʻplamda qoladi (data leakage oldini olish)."
+}

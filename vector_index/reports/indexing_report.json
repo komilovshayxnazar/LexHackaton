@@ -1,0 +1,52 @@
+{
+  "generated_at": "2026-11-20T09:22:48.718603+00:00",
+  "status": "completed",
+  "input_documents": 1,
+  "inputs_used": [
+    "/Users/shayxnazar/LexHackaton/data/processed/law_structured.json",
+    "/Users/shayxnazar/LexHackaton/data/processed/articles.json",
+    "/Users/shayxnazar/LexHackaton/data/processed/tables.json",
+    "/Users/shayxnazar/LexHackaton/data/processed/amendments.json"
+  ],
+  "article_count": 33,
+  "table_count": 1,
+  "amendment_count": 155,
+  "chunk_count": 1213,
+  "chunk_counts_by_type": {
+    "article": 243,
+    "table": 815,
+    "other": 155
+  },
+  "average_chunk_characters": 303.74,
+  "average_chunk_tokens_including_passage_prefix": 106.0,
+  "oversized_chunks": [],
+  "embedding_model": "intfloat/multilingual-e5-large",
+  "embedding_dimension": 1024,
+  "faiss_index": {
+    "type": "IndexFlatIP",
+    "vectors": 1213
+  },
+  "bm25_index": {
+    "status": "built",
+    "documents": 1213
+  },
+  "retrieval_evaluation": {
+    "5": {
+      "precision_at_5": 0.25,
+      "recall_at_5": 0.78125,
+      "mrr": 1.0,
+      "ndcg_at_5": 0.8771850769776061,
+      "hit_rate_at_5": 1.0
+    },
+    "10": {
+      "precision_at_10": 0.125,
+      "recall_at_10": 0.78125,
+      "mrr": 1.0,
+      "ndcg_at_10": 0.83253441236178,
+      "hit_rate_at_10": 1.0
+    }
+  },
+  "errors": [],
+  "warnings": [],
+  "validation_report": "data/reports/indexing_validation_report.json"
+}

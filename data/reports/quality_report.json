@@ -1,0 +1,46 @@
+{
+  "checks": {
+    "json_parse": "ok",
+    "jsonl_parse": "ok",
+    "required_fields": "ok",
+    "unicode_preserved": true,
+    "empty_records": "ok",
+    "duplicate_ids": "ok",
+    "article_numbers_match_source": "ok",
+    "source_quotes_verified": "ok",
+    "grouped_split_no_leakage": "ok",
+    "no_duplicate_qa_pairs": "ok"
+  },
+  "readback": {
+    "law_structured.json": "ok",
+    "articles.json": "ok",
+    "tables.json": "ok",
+    "amendments.json": "ok",
+    "train.jsonl": {
+      "status": "ok",
+      "records": 276
+    },
+    "validation.jsonl": {
+      "status": "ok",
+      "records": 37
+    },
+    "test.jsonl": {
+      "status": "ok",
+      "records": 35
+    },
+    "review_required.jsonl": {
+      "status": "ok",
+      "records": 0
+    }
+  },
+  "errors": [],
+  "warnings": [],
+  "review_required_count": 0,
+  "review_required_reasons": {},
+  "notes": [
+    "Normativ matn, raqamlar, sanalar va jadval qiymatlari manbadan soʻzma-soʻz olingan.",
+    "Oʻzgartirishlar tarixi normativ matndan alohida saqlangan (articles.json, amendments.json).",
+    "Javoblar manba iqtiboslari (source_quotes) bilan tekshirilgan.",
+    "Jadvalning 1 ustunli qatorlari boʻlim yoki izoh sifatida, 2 ustunli boʻsh birinchi katakli qatorlar esa band tavsifi sifatida talqin qilindi."
+  ]
+}

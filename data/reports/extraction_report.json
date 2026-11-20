@@ -1,0 +1,338 @@
+{
+  "source_file": "source_document/O‘RQ-600 06.01.2020.doc",
+  "detected_format": "HTML (LexUZ export) inside .doc extension",
+  "encoding": "UTF-8",
+  "metadata": {
+    "law_title": "Davlat boji toʻgʻrisida",
+    "law_number": "OʻRQ-600",
+    "adoption_date": "2020-01-06",
+    "language": "uz",
+    "source": "LexUZ",
+    "document_type": "law",
+    "document_form": "Oʻzbekiston Respublikasining Qonuni",
+    "parliament_adopted_date": "2019-12-09",
+    "senate_approved_date": "2019-12-14",
+    "signatory": "Oʻzbekiston Respublikasining Prezidenti Sh. MIRZIYOYEV",
+    "place": "Toshkent sh.",
+    "source_file": "O‘RQ-600 06.01.2020.doc",
+    "detected_format": "HTML (LexUZ export) inside .doc extension",
+    "encoding": "UTF-8"
+  },
+  "counts": {
+    "chapters": 5,
+    "articles": 33,
+    "tables": 1,
+    "annexes": 1,
+    "amendments": 155,
+    "table_rows": 861,
+    "table_sections": 48,
+    "table_rate_rows": 556,
+    "table_notes": 31
+  },
+  "chapters": [
+    {
+      "chapter_id": "CHAPTER_01",
+      "chapter_number": "1",
+      "chapter_title": "Umumiy qoidalar",
+      "article_count": 6
+    },
+    {
+      "chapter_id": "CHAPTER_02",
+      "chapter_number": "2",
+      "chapter_title": "Davlat bojini toʻlashdan ozod qilish",
+      "article_count": 9
+    },
+    {
+      "chapter_id": "CHAPTER_03",
+      "chapter_number": "3",
+      "chapter_title": "Davlat boji toʻlovlarini, tushumlarini hisobga olish va qaytarish tartibi",
+      "article_count": 3
+    },
+    {
+      "chapter_id": "CHAPTER_04",
+      "chapter_number": "4",
+      "chapter_title": "Davlat bojini undirishning oʻziga xos xususiyatlari",
+      "article_count": 8
+    },
+    {
+      "chapter_id": "CHAPTER_05",
+      "chapter_number": "5",
+      "chapter_title": "Yakunlovchi qoidalar",
+      "article_count": 7
+    }
+  ],
+  "articles": [
+    {
+      "article_number": "1-modda",
+      "article_title": "Ushbu Qonunning maqsadi",
+      "chapter_number": "1",
+      "paragraph_count": 1,
+      "part_count": 0,
+      "amendment_count": 0
+    },
+    {
+      "article_number": "2-modda",
+      "article_title": "Davlat boji toʻgʻrisidagi qonunchilik",
+      "chapter_number": "1",
+      "paragraph_count": 3,
+      "part_count": 0,
+      "amendment_count": 2
+    },
+    {
+      "article_number": "3-modda",
+      "article_title": "Davlat boji turlari",
+      "chapter_number": "1",
+      "paragraph_count": 4,
+      "part_count": 0,
+      "amendment_count": 1
+    },
+    {
+      "article_number": "4-modda",
+      "article_title": "Davlat bojini toʻlovchilar",
+      "chapter_number": "1",
+      "paragraph_count": 1,
+      "part_count": 0,
+      "amendment_count": 0
+    },
+    {
+      "article_number": "5-modda",
+      "article_title": "Undirish obyektlari",
+      "chapter_number": "1",
+      "paragraph_count": 15,
+      "part_count": 14,
+      "amendment_count": 9
+    },
+    {
+      "article_number": "6-modda",
+      "article_title": "Davlat boji stavkalarining miqdorlari",
+      "chapter_number": "1",
+      "paragraph_count": 1,
+      "part_count": 0,
+      "amendment_count": 0
+    },
+    {
+      "article_number": "7-modda",
+      "article_title": "Davlat bojini toʻlashdan ozod qilish",
+      "chapter_number": "2",
+      "paragraph_count": 2,
+      "part_count": 0,
+      "amendment_count": 1
+    },
+    {
+      "article_number": "8-modda",
+      "article_title": "Fuqarolik ishlari boʻyicha sudlarda davlat bojini toʻlashdan ozod qilish",
+      "chapter_number": "2",
+      "paragraph_count": 57,
+      "part_count": 52,
+      "amendment_count": 38
+    },
+    {
+      "article_number": "9-modda",
+      "article_title": "Iqtisodiy sudlarda davlat bojini toʻlashdan ozod qilish",
+      "chapter_number": "2",
+      "paragraph_count": 38,
+      "part_count": 36,
+      "amendment_count": 21
+    },
+    {
+      "article_number": "10-modda",
+      "article_title": "Maʼmuriy sudlarda davlat bojini toʻlashdan ozod qilish",
+      "chapter_number": "2",
+      "paragraph_count": 29,
+      "part_count": 27,
+      "amendment_count": 15
+    },
+    {
+      "article_number": "11-modda",
+      "article_title": "Notarial harakatlar amalga oshirilganda davlat bojini toʻlashdan ozod etish",
+      "chapter_number": "2",
+      "paragraph_count": 26,
+      "part_count": 20,
+      "amendment_count": 9
+    },
+    {
+      "article_number": "12-modda",
+      "article_title": "Fuqarolik holati dalolatnomalarini qayd etishda davlat bojini toʻlashdan ozod qilish",
+      "chapter_number": "2",
+      "paragraph_count": 7,
+      "part_count": 6,
+      "amendment_count": 3
+    },
+    {
+      "article_number": "13-modda",
+      "article_title": "Migratsiya va fuqarolikni rasmiylashtirish sohasidagi hujjatlarni rasmiylashtirish hamda berishda davlat bojini toʻlashdan ozod qilish",
+      "chapter_number": "2",
+      "paragraph_count": 13,
+      "part_count": 4,
+      "amendment_count": 3
+    },
+    {
+      "article_number": "14-modda",
+      "article_title": "Konsullik yigʻimini toʻlashdan ozod qilish",
+      "chapter_number": "2",
+      "paragraph_count": 13,
+      "part_count": 12,
+      "amendment_count": 3
+    },
+    {
+      "article_number": "15-modda",
+      "article_title": "Ayrim toifadagi shaxslarni davlat bojini toʻlashdan ozod qilish",
+      "chapter_number": "2",
+      "paragraph_count": 15,
+      "part_count": 2,
+      "amendment_count": 10
+    },
+    {
+      "article_number": "16-modda",
+      "article_title": "Davlat boji toʻlovlarini va tushumlarini hisobga olish",
+      "chapter_number": "3",
+      "paragraph_count": 5,
+      "part_count": 0,
+      "amendment_count": 2
+    },
+    {
+      "article_number": "17-modda",
+      "article_title": "Davlat bojini toʻlash va hisobga oʻtkazish tartibi",
+      "chapter_number": "3",
+      "paragraph_count": 8,
+      "part_count": 0,
+      "amendment_count": 2
+    },
+    {
+      "article_number": "18-modda",
+      "article_title": "Davlat bojini qaytarish tartibi",
+      "chapter_number": "3",
+      "paragraph_count": 20,
+      "part_count": 17,
+      "amendment_count": 8
+    },
+    {
+      "article_number": "19-modda",
+      "article_title": "Sudlarda davlat bojini undirishning oʻziga xos xususiyatlari",
+      "chapter_number": "4",
+      "paragraph_count": 33,
+      "part_count": 0,
+      "amendment_count": 5
+    },
+    {
+      "article_number": "20-modda",
+      "article_title": "Notarial harakatlar bajarilganligi uchun davlat boji undirishning oʻziga xos xususiyatlari",
+      "chapter_number": "4",
+      "paragraph_count": 21,
+      "part_count": 0,
+      "amendment_count": 8
+    },
+    {
+      "article_number": "21-modda",
+      "article_title": "Konsullik yigʻimini undirishning oʻziga xos xususiyatlari",
+      "chapter_number": "4",
+      "paragraph_count": 3,
+      "part_count": 0,
+      "amendment_count": 1
+    },
+    {
+      "article_number": "22-modda",
+      "article_title": "Davlat bojini boshqa organlar va tashkilotlar tomonidan undirishning oʻziga xos xususiyatlari",
+      "chapter_number": "4",
+      "paragraph_count": 6,
+      "part_count": 0,
+      "amendment_count": 3
+    },
+    {
+      "article_number": "22-1-modda",
+      "article_title": "Davlat xizmatlarini olish uchun Oʻzbekiston Respublikasi Yagona interaktiv davlat xizmatlari portali orqali murojaat qilishda davlat boji undirishning oʻziga xos xususiyatlari",
+      "chapter_number": "4",
+      "paragraph_count": 1,
+      "part_count": 0,
+      "amendment_count": 1
+    },
+    {
+      "article_number": "22-2-modda",
+      "article_title": "Ijtimoiy himoya yagona reyestrida roʻyxatga olingan shaxslarga, shuningdek I va II guruh nogironligi boʻlgan shaxslarga davlat xizmatlarini koʻrsatish chogʻida davlat bojlarini, yigʻimlar va boshqa toʻlovlarni undirishning oʻziga xos xususiyatlari",
+      "chapter_number": "4",
+      "paragraph_count": 1,
+      "part_count": 0,
+      "amendment_count": 1
+    },
+    {
+      "article_number": "23-modda",
+      "article_title": "Intellektual mulk obyektlarini huquqiy muhofaza qilish chogʻida davlat bojini undirishning oʻziga xos xususiyatlari",
+      "chapter_number": "4",
+      "paragraph_count": 10,
+      "part_count": 0,
+      "amendment_count": 1
+    },
+    {
+      "article_number": "24-modda",
+      "article_title": "Faoliyatning alohida turlarini amalga oshirishga doir litsenziya berilganligi uchun davlat boji undirishning oʻziga xos xususiyatlari",
+      "chapter_number": "4",
+      "paragraph_count": 3,
+      "part_count": 0,
+      "amendment_count": 1
+    },
+    {
+      "article_number": "25-modda",
+      "article_title": "Davlat bojining toʻgʻri undirilishi ustidan nazorat",
+      "chapter_number": "5",
+      "paragraph_count": 1,
+      "part_count": 0,
+      "amendment_count": 0
+    },
+    {
+      "article_number": "26-modda",
+      "article_title": "Nizolarni hal etish",
+      "chapter_number": "5",
+      "paragraph_count": 1,
+      "part_count": 0,
+      "amendment_count": 1
+    },
+    {
+      "article_number": "27-modda",
+      "article_title": "Davlat boji toʻgʻrisidagi qonunchilikni buzganlik uchun javobgarlik",
+      "chapter_number": "5",
+      "paragraph_count": 1,
+      "part_count": 0,
+      "amendment_count": 1
+    },
+    {
+      "article_number": "28-modda",
+      "article_title": "Oʻzbekiston Respublikasining ayrim qonun hujjatlariga oʻzgartishlar kiritish",
+      "chapter_number": "5",
+      "paragraph_count": 25,
+      "part_count": 14,
+      "amendment_count": 2
+    },
+    {
+      "article_number": "29-modda",
+      "article_title": "Ushbu Qonunning ijrosini, yetkazilishini, mohiyati va ahamiyati tushuntirilishini taʼminlash",
+      "chapter_number": "5",
+      "paragraph_count": 1,
+      "part_count": 0,
+      "amendment_count": 1
+    },
+    {
+      "article_number": "30-modda",
+      "article_title": "Qonunchilikni ushbu Qonunga muvofiqlashtirish",
+      "chapter_number": "5",
+      "paragraph_count": 4,
+      "part_count": 0,
+      "amendment_count": 1
+    },
+    {
+      "article_number": "31-modda",
+      "article_title": "Ushbu Qonunning kuchga kirishi",
+      "chapter_number": "5",
+      "paragraph_count": 1,
+      "part_count": 0,
+      "amendment_count": 0
+    }
+  ],
+  "warnings": [],
+  "notes": [
+    "Manba .doc kengaytmali boʻlsa-da, ichki formati HTML (LexUZ eksporti), UTF-8.",
+    "Hujjat tartibi divCont ichidagi elementlar ketma-ketligi boʻyicha saqlandi.",
+    "Ilovadagi boʻlim raqamlari manbada uzluksiz emas; barcha mavjud boʻlimlar oʻzgartirilmasdan saqlandi.",
+    "Oʻzgartirishlar tarixi (155 ta yozuv) normativ matndan alohida saqlandi.",
+    "Jadvalning 861 satri, 556 stavka satri va 31 izohi saqlandi."
+  ]
+}
